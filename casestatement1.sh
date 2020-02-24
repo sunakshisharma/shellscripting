@@ -1,5 +1,4 @@
 #!/bin/bash
-set -x
 case "$1" in 
 start)
 /tmp/sleep-walking-server &
