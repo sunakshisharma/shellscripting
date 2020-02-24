@@ -1,0 +1,5 @@
+git add . -> to add the file in git
+git commit  -m "some msg" -> to commit the file to git gub
+git push -> to push the file to git hub
+
+git status -> to check the status of the running file
