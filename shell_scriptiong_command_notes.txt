@@ -6,4 +6,4 @@ shell scriptiong command
 4) basename -> fetches file name from the complete or absolute path of the file.
 5)  dirname -> fetches the directory name from the complete path of the file.
 6) alias -> making shortcut of the given command.
-7) 
+7) history| tail -20 -> to get last 20 commands already run. 
