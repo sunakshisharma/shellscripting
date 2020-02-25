@@ -7,3 +7,6 @@ shell scriptiong command
 5)  dirname -> fetches the directory name from the complete path of the file.
 6) alias -> making shortcut of the given command.
 7) history| tail -20 -> to get last 20 commands already run. 
+8) sed 's/old_string/new_string/' filename -> to replace old string with the new string on terminal from the file.
+9) sed -i backup_filename 's/old_string/new_string/' filename -> to actual replace the string and backup.
+
